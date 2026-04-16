@@ -1,0 +1,13 @@
+Back 1
+- motor
+- motor driver
+- battery
+- esp32
+- gears
+- winch
+- loadcell
+
+Back 2
+- first aid kit
+- backup batteries
+- drone
